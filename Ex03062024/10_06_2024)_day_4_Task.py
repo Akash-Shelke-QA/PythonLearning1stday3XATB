@@ -31,11 +31,5 @@ print(f"The Cube of the {num} is {cube}")
 #2. Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
 
 first_num = input("Enter a number: ")
-Second_num = input("Enter a number: ")
-first_num = int(first_num)
-Second_num = int(Second_num)
-
-print(first_num > Second_num)
-print(first_num < Second_num)
-print(first_num == Second_num)
-
+second_num = input("Enter a number: ")
+print(f"{first_num} is {'greater than' if first_num > second_num else 'less than' if first_num < second_num else 'equal to'} {second_num}.")
