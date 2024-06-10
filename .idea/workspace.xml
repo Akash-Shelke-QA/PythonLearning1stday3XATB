@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86217200-405f-47b7-96e3-178aada6e854" name="Changes" comment="Learning Python file 002">
-      <change afterPath="$PROJECT_DIR$/Ex03062024/Day_4.py" afterDir="false" />
+    <list default="true" id="86217200-405f-47b7-96e3-178aada6e854" name="Changes" comment="Learning Python file 003">
+      <change afterPath="$PROJECT_DIR$/Ex03062024/10_06_2024)_day_4_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -46,16 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day_4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.001.executor": "Run",
+    "Python.002.executor": "Run",
+    "Python.Day_3.executor": "Run",
+    "Python.Day_4.executor": "Run",
+    "Python.Day_4_Task_10_6_24.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shelk\PycharmProjects\PythonLearning1stday3XATB" />
@@ -84,8 +88,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day_4_Task_10_6_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning1stday3XATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex03062024/Day 4 task 10/06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex03062024/Day 4 task 10/06/Day_4_Task_10_6_24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day_4_Task_10_6_24" />
         <item itemvalue="Python.Day_3" />
       </list>
     </recent_temporary>
@@ -122,12 +149,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717435598372</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Learning Python file 003">
+      <option name="closed" value="true" />
+      <created>1717869199278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717869199279</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Learning Python file 003">
+      <option name="closed" value="true" />
+      <created>1717869268478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717869268478</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning Python" />
     <MESSAGE value="Learning Python file 002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning Python file 002" />
+    <MESSAGE value="Learning Python file 003" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Python file 003" />
   </component>
 </project>
