@@ -15,10 +15,13 @@ EX= 4**2 = 16 """
 # Task 2-------------------
 #Develop a Python script that calculates the square and cube of a given number. num = 2 sq - 4, c = 8
 
+#square 
 num = 2
 c =8
 sq = int(num**2)-4
 print(sq)
+
+#Cube
 cube = c**3
 print(cube)
 
