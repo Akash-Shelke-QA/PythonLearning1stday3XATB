@@ -13,15 +13,29 @@ EX= 4**2 = 16 """
 """it is XOR binary operator """
 
 # Task 2-------------------
-#Develop a Python script that calculates the square and cube of a given number. num = 2 sq - 4, c = 8
+# 1.Develop a Python script that calculates the square and cube of a given number. num = 2 sq - 4, c = 8
 
 #square 
-num = 2
-c =8
-sq = int(num**2)-4
-print(sq)
+num = input("Enter a number: ")
+num = int(num)
 
-#Cube
-cube = c**3
-print(cube)
+sq = num ** 2
+print(f"The Square of the {num} is {sq}")
+
+a =sq -4
+print(a)
+#cube
+cube = num ** 3
+print(f"The Cube of the {num} is {cube}")
+
+#2. Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
+
+first_num = input("Enter a number: ")
+Second_num = input("Enter a number: ")
+first_num = int(first_num)
+Second_num = int(Second_num)
+
+print(first_num > Second_num)
+print(first_num < Second_num)
+print(first_num == Second_num)
 
