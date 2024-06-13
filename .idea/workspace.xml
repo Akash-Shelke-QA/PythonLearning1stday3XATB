@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86217200-405f-47b7-96e3-178aada6e854" name="Changes" comment="Learning Python file day 004 Task">
+      <change afterPath="$PROJECT_DIR$/Ex03062024/Day_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Day_5_task_12_6_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex03062024/10_06_2024)_day_4_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex03062024/10_06_2024)_day_4_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +57,8 @@
     "Python.Day_3.executor": "Run",
     "Python.Day_4.executor": "Run",
     "Python.Day_4_Task_10_6_24.executor": "Run",
+    "Python.Day_5.executor": "Run",
+    "Python.Day_5_task_12_6_24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -181,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718043817733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Learning Python file day 004 Task">
+      <option name="closed" value="true" />
+      <created>1718044170140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044170140</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
