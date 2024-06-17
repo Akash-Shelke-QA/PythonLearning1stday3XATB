@@ -27,7 +27,7 @@ Eq. = side 1 == side 2 = side 3"""
 side1 = int(input("Enter the length of side 1: "))
 side2 = int(input("Enter the length of side 2: "))
 side3 = int(input("Enter the length of side 3: "))
-if side1 == side2 == side3 :
+if side1 == side2 == side3:
     print("The triangle is Equilateral")
 elif side1 == side2 or side2 == side3 or side1 == side3:
     print("The triangle is Isosceles")
@@ -36,12 +36,24 @@ elif side1 != side2 and side2 != side3 and side1 != side3:
 else:
     print("Invalid input! Please enter valid side lengths.")
 
-
 # (3). Factorial number
 # Ex=   5! -->5*4*3*2*1 -> 120,  3! -> 3*2*1 -> 6,  4! -> 4*3*2*1 -> 24
 
 num = int(input("Enter the Number : "))
-result = factorial(num)
-print(f"The factorial number of {num} is : {result}")
+factorial = 1
+for i in range(1, num + 1)
+    factorial = factorial * i
+
+print(f"The factorial of {num} is {factorial}")
+
+#OR
+n = 5
+fact = 1
+while n >0:
+    fact = fact *n
+    n = n-1
+
+print(f"Factorial number of {n} is {fact}")
+
 
 
